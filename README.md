@@ -1,7 +1,7 @@
 # Lock Screen Simulator
 
 A **educational simulation** of a Windows lock screen with full‑screen UI, password protection, decoy passwords, biometric mock‑ups, cooldown timer, fake BSOD, persistence mechanisms, logging, and optional audio feedback.
- 
+  
 ## Project Structure
 ```
 LockScreenProject/
