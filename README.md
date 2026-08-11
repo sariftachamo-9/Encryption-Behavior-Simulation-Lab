@@ -1,5 +1,5 @@
 # Encryption Behavior Simulation Lab(Ransomware)
-
+ 
 An **educational simulation lab** that demonstrates cryptographic defense mechanisms, including password‑based encryption, decoy key injection, rate‑limiting cooldowns, biometric mock‑ups, tamper‑response triggers, anti‑forensics persistence, and event logging – all within a full‑screen Windows‑style lock screen environment.
 
 ---
